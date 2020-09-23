@@ -1,4 +1,4 @@
-# Intro to TensorFlow for Deep Learning
+# Intro to TensorFlow for Deep Learning (Udacity)
 
 ## About this Course
 Learn how to build deep learning applications with TensorFlow. This course was developed by the TensorFlow team and Udacity as a practical approach to deep learning for software developers. You'll get hands-on experience building your own state-of-the-art image classifiers and other deep learning models. You'll also use your TensorFlow models in the real world on mobile devices, in the cloud, and in browsers. Finally, you'll use advanced techniques and algorithms to work with large datasets. By the end of this course, you'll have all the skills necessary to start creating your own AI applications.
