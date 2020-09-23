@@ -28,5 +28,4 @@ Learn how to build deep learning applications with TensorFlow. This course was d
 * Learning from sequential data with recurrent neural networks
 
 **LESSON 8 Introduction to TensorFlow Lite**
-* Learn how you can use TensorFlow lite to build machine learning apps on Android
-* iOS and iOT devices
+* Learn how you can use TensorFlow lite to build machine learning apps on Android, iOS and iOT devices
