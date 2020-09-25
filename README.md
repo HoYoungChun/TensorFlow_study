@@ -29,4 +29,4 @@ Learn how to build deep learning applications with TensorFlow. This course was d
 **LESSON 7 Time Series Forecasting**
 * Learning from sequential data with recurrent neural networks
 
-cf) LESSON 8 Introduction to TensorFlow Lite Turned out to be so big that Udacity decided to make it a stand-alone Free Course
+cf) LESSON 8 urned out to be so big that Udacity decided to make it a stand-alone Free Course
