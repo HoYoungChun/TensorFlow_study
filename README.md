@@ -29,5 +29,5 @@ Learn how to build deep learning applications with TensorFlow. This course was d
 **LESSON 7 Time Series Forecasting**
 * Learning from sequential data with recurrent neural networks
 
-**LESSON 8 Introduction to TensorFlow Lite**
+**LESSON 8 Introduction to TensorFlow Lite**  ->  turned out to be so big that Udacity decided to make a it a stand-alone Free Course
 * Learn how you can use TensorFlow lite to build machine learning apps on Android, iOS and iOT devices
