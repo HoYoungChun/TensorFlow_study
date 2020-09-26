@@ -13,9 +13,10 @@ logger.setLevel(logging.ERROR)
 _URL = 'https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip'
 zip_dir = tf.keras.utils.get_file('cats_and_dogs_filterted.zip', origin=_URL, extract=True)
 
+"""
 zip_dir_base = os.path.dirname(zip_dir)
 !find $zip_dir_base -type d -print
-
+"""
 base_dir = os.path.join(os.path.dirname(zip_dir), 'cats_and_dogs_filtered')
 train_dir = os.path.join(base_dir, 'train')
 validation_dir = os.path.join(base_dir, 'validation')
