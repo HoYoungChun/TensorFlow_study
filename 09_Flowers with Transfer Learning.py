@@ -159,3 +159,5 @@ EPOCHS = 6
 history = model_inception.fit(train_batches,
                     epochs=EPOCHS,
                     validation_data=validation_batches)
+
+
