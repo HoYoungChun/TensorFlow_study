@@ -63,3 +63,5 @@ errors = naive_forecast - x_valid
 abs_errors = np.abs(errors)
 mae = abs_errors.mean()
 mae
+
+
