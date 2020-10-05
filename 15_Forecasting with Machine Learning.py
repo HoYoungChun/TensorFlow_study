@@ -200,4 +200,4 @@ plot_series(time_valid, dense_forecast)
 
 keras.metrics.mean_absolute_error(x_valid, dense_forecast).numpy()    
     
-//next
+#next
